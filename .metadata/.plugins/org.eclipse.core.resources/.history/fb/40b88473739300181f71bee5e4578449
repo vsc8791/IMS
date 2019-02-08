@@ -1,0 +1,5 @@
+package com.jboss.controller;
+
+public class Deathdetails {
+
+}

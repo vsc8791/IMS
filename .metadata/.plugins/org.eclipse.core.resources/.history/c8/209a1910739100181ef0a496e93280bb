@@ -1,0 +1,117 @@
+package com.luv2code.springdemo.entity;
+
+public class Schedule {
+
+	
+	private int id;
+	
+	private String date_of_lecture;
+	
+	
+	private String day_of_lecture;
+	
+	private String subject;
+	
+	
+	private String faculty_teaches;
+	
+	private String type_of_lec;
+	
+	private String is_compulsory;
+	
+	
+	
+	public Schedule() {
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+	public int getId() {
+		return id;
+	}
+
+
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+
+
+	public String getDate_of_lecture() {
+		return date_of_lecture;
+	}
+
+
+
+	public void setDate_of_lecture(String date_of_lecture) {
+		this.date_of_lecture = date_of_lecture;
+	}
+
+
+
+	public String getDay_of_lecture() {
+		return day_of_lecture;
+	}
+
+
+
+	public void setDay_of_lecture(String day_of_lecture) {
+		this.day_of_lecture = day_of_lecture;
+	}
+
+
+
+	public String getSubject() {
+		return subject;
+	}
+
+
+
+	public void setSubject(String subject) {
+		this.subject = subject;
+	}
+
+
+
+	public String getFaculty_teaches() {
+		return faculty_teaches;
+	}
+
+
+
+	public void setFaculty_teaches(String faculty_teaches) {
+		this.faculty_teaches = faculty_teaches;
+	}
+
+
+
+	public String getType_of_lec() {
+		return type_of_lec;
+	}
+
+
+
+	public void setType_of_lec(String type_of_lec) {
+		this.type_of_lec = type_of_lec;
+	}
+
+
+
+	public String getIs_compulsory() {
+		return is_compulsory;
+	}
+
+
+
+	public void setIs_compulsory(String is_compulsory) {
+		this.is_compulsory = is_compulsory;
+	}  
+	
+	
+	
+	
+	
+	
+}

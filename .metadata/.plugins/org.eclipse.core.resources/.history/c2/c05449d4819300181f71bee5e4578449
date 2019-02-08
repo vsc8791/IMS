@@ -1,0 +1,33 @@
+package com.jboss.service;
+
+import java.util.List;
+
+import com.jboss.pojos.User;
+
+public class UserServiceImpl implements UserService {
+
+	@Override
+	public List<User> getUsers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveUser(User theUser) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public User getUser(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteUser(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

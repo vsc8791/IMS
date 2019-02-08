@@ -1,0 +1,43 @@
+package com.luv2code.springdemo.service;
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+import com.luv2code.springdemo.dao.ScheduleDAO;
+import com.luv2code.springdemo.entity.Schedule;
+@Service
+public class ScheduleServiceImpl implements ScheduleService {
+
+	//need to inject customer dao
+	@Autowired
+	public ScheduleDAO scheduleDAO;
+	@Override
+	@Transactional
+	public List<Schedule> getSchedules() {
+		
+		return scheduleDAO.getSchedules();
+	}
+	@Override
+	@Transactional
+	public void saveSchedule(Schedule theSchedule) {
+		// TODO Auto-generated method stub
+		scheduleDAO.saveSchedule(theSchedule);		
+	}
+	@Override
+	@Transactional
+	public Schedule getSchedule(int theId) {
+		// TODO Auto-generated method stub
+		
+		return scheduleDAO.getSchedule(theId);
+	}
+	
+	@Override
+	@Transactional
+	public void deleteSchedule(int theId) {
+		
+	scheduleDAO.deleteSchedule(theId);	
+	}
+	
+
+}
+

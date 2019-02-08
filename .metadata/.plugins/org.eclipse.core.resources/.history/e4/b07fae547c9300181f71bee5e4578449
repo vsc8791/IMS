@@ -1,0 +1,76 @@
+package com.jboss.pojos;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name="birthdetails")
+public class BirthDetails {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	@Column(name="certificate_type")
+	private String certificate_type;
+	
+	@Column(name="birthid")
+	private String birthid;
+	
+	@Column(name="firstname")
+	private String firstname;
+	
+	@Column(name="middlename")
+	private String middlename;
+	
+	@Column(name="lastname")
+	private String lastname;
+	
+	@Column(name="gender")
+	private String 	gender;
+	
+	@Column(name="state")
+	private String state;
+	
+	@Column(name="district")
+	private String district;
+	
+	
+	@Column(name="taluka")
+	private String taluka;
+	
+	@Column(name="village")
+	private String village;
+	
+	@Column(name="birthdate")
+	private String birthdate;
+	
+	@Column(name="birthplace")
+	private String birthplace;
+	
+	@Column(name="birthtime")
+	private String birthtime;
+	
+	@Column(name="fathername")
+	private String fathername;
+	
+	@Column(name="fathernationality")
+	private String fathernationality;
+	
+	@Column(name="fadhaar")
+	private String fadhaar;
+	
+	@Column(name="fage")
+	private int fage;
+	
+	@Column(name="mothername")
+	private String mothername;
+	
+	@Column(name="madhaar")
+	private String madhaar;
+	
+	@Column(name="mage")
+	private int mage;
+	
+	
+}

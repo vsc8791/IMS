@@ -1,0 +1,9 @@
+127.0.0.1 - - [23/Jul/2018:21:34:06 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:21:34:07 +0530] "GET /web-customer-tracker/TestDbServlet HTTP/1.1" 200 99
+127.0.0.1 - - [23/Jul/2018:22:29:58 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:22:29:59 +0530] "GET /web-customer-tracker/WEB-INF/view/list-customers.jsp HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:22:31:01 +0530] "GET /web-customer-tracker/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:22:31:14 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 136
+127.0.0.1 - - [23/Jul/2018:23:50:31 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:23:50:34 +0530] "GET /web-customer-tracker/WEB-INF/view/list-customers.jsp HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Jul/2018:23:50:55 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 994

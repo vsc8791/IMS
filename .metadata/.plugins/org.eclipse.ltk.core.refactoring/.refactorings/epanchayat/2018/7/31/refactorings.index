@@ -1,0 +1,15 @@
+1532898087236	Move 'index.jsp' to 'WebContent'
+1532898466820	Delete element
+1532898470371	Delete element
+1532898972627	Delete element
+1532899293958	Move 'admin-form.jsp' to 'WEB-INF'
+1532899305470	Move 'admin-form.jsp' to 'view'
+1532904118107	Rename type 'DeathdetailsDAO'
+1532909526425	Rename resource 'list-birthdetails.jsp'
+1532909545037	Rename resource 'list-deathdetails.jsp'
+1532909631102	Rename resource 'list-birthdetailss.jsp'
+1532909644560	Rename resource 'list-deathdetailss.jsp'
+1532910077279	Rename resource 'birthdetail-form.jsp'
+1532910101886	Rename resource 'deathdetail-form.jsp'
+1532922888071	Delete element
+1532923163111	Delete element

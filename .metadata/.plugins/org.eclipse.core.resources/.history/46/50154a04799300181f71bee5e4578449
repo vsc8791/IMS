@@ -1,0 +1,17 @@
+package com.jboss.pojos;
+
+import javax.persistence.GenerationType;
+import javax.persistence.*;
+
+@Entity
+@Table(name="admin")
+public class Admin {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	
+	@Column(name="adminid")
+	private String admin;
+	
+	@Column(name="")
+}

@@ -1,0 +1,152 @@
+package com.luv2code.springdemo.entity;
+
+import javax.persistence.*;
+@Entity
+@Table(name="faculty")
+public class Faculty {
+
+	/*
+	 * create table faculty(
+id int auto_increment primary key,
+facultyName varchar(50),
+specialization varchar(50),
+experience varchar(50),
+email varchar(50),
+contact long,
+username varchar(50),
+`password` varchar(50) 
+);
+	 * 
+	 * 
+	 */
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	@Column(name="facultyName")
+	private String facultyName;
+	
+	@Column(name="specialization")
+	private String specialization;
+	
+	@Column(name="experience")
+	private String experience;
+	
+	@Column(name="email")
+	private String email;
+	
+	@Column(name="contact")
+	private long contact;
+	
+	@Column(name="username")
+	private String username;
+	
+	@Column(name="password")
+	private String password;
+	
+	
+	
+	public Faculty() {
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+	public int getId() {
+		return id;
+	}
+
+
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+
+
+	public String getFacultyName() {
+		return facultyName;
+	}
+
+
+
+	public void setFacultyName(String facultyName) {
+		this.facultyName = facultyName;
+	}
+
+
+
+	public String getSpecialization() {
+		return specialization;
+	}
+
+
+
+	public void setSpecialization(String specialization) {
+		this.specialization = specialization;
+	}
+
+
+
+	public String getExperience() {
+		return experience;
+	}
+
+
+
+	public void setExperience(String experience) {
+		this.experience = experience;
+	}
+
+
+
+	public String getEmail() {
+		return email;
+	}
+
+
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+
+
+	public long getContact() {
+		return contact;
+	}
+
+
+
+	public void setContact(long contact) {
+		this.contact = contact;
+	}
+
+
+
+	public String getUsername() {
+		return username;
+	}
+
+
+
+	public void setUsername(String username) {
+		this.username = username;
+	}
+
+
+
+	public String getPassword() {
+		return password;
+	}
+
+
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+	
+	
+}

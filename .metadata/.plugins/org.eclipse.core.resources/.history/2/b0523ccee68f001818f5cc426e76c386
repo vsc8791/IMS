@@ -1,0 +1,45 @@
+package com.luv2code.springdemo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.luv2code.springdemo.dao.StudentDAO;
+import com.luv2code.springdemo.entity.Student;
+@Service
+public class StudentServiceImpl implements StudentService {
+
+	//need to inject Student dao
+	@Autowired
+	public StudentDAO StudentDAO;
+	@Override
+	@Transactional
+	public List<Student> getStudents() {
+		
+		return StudentDAO.getStudents();
+	}
+	@Override
+	@Transactional
+	public void saveStudent(Student theStudent) {
+		// TODO Auto-generated method stub
+		StudentDAO.saveStudent(theStudent);		
+	}
+	@Override
+	@Transactional
+	public Student getStudent(int theId) {
+		// TODO Auto-generated method stub
+		
+		return StudentDAO.getStudent(theId);
+	}
+	
+	@Override
+	@Transactional
+	public void deleteStudent(int theId) {
+		
+	StudentDAO.deleteStudent(theId);	
+	}
+	
+
+}

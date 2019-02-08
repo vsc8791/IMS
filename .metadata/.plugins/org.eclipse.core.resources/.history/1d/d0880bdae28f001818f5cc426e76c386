@@ -1,0 +1,175 @@
+package com.luv2code.springdemo.entity;
+
+import javax.persistence.*;
+
+
+@Entity
+@Table(name="student")
+public class Student {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="prn_number")
+	private int prn_number;
+	
+	
+	@Column(name="roll_number")
+	private int roll_number;
+	
+	@Column(name="roll_number")
+	private String studentName;
+	
+	
+	@Column(name="gender")
+	private String gender;
+	
+	@Column(name="course_enrolled")
+	private String course_enrolled;
+	
+	@Column(name="degree_course")
+	private String degree_course;
+							
+	@Column(name="passing_year")
+	private int passing_year;
+	
+	@Column(name="aggregate")
+	private double aggregate;
+	
+	@Column(name="email")
+	private String email;
+	
+	@Column(name="password")
+	private String password;
+	
+	@Column(name="contact")
+	private long contact;
+
+	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+
+
+	public long getPrn_number() {
+		return prn_number;
+	}
+
+
+	public void setPrn_number(long prn_number) {
+		this.prn_number = prn_number;
+	}
+
+
+	public int getRoll_number() {
+		return roll_number;
+	}
+
+
+	public void setRoll_number(int roll_number) {
+		this.roll_number = roll_number;
+	}
+
+
+	public String getStudentName() {
+		return studentName;
+	}
+
+
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
+	}
+
+
+	public String getGender() {
+		return gender;
+	}
+
+
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+
+
+	public String getCourse_enrolled() {
+		return course_enrolled;
+	}
+
+
+	public void setCourse_enrolled(String course_enrolled) {
+		this.course_enrolled = course_enrolled;
+	}
+
+
+	public String getDegree_course() {
+		return degree_course;
+	}
+
+
+	public void setDegree_course(String degree_course) {
+		this.degree_course = degree_course;
+	}
+
+
+	public int getPassing_year() {
+		return passing_year;
+	}
+
+
+	public void setPassing_year(int passing_year) {
+		this.passing_year = passing_year;
+	}
+
+
+	public double getAggregate() {
+		return aggregate;
+	}
+
+
+	public void setAggregate(double aggregate) {
+		this.aggregate = aggregate;
+	}
+
+
+	public String getEmail() {
+		return email;
+	}
+
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+
+	public String getPassword() {
+		return password;
+	}
+
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+
+	public long getContact() {
+		return contact;
+	}
+
+
+	public void setContact(long contact) {
+		this.contact = contact;
+	}
+
+
+	@Override
+	public String toString() {
+		return "Student [prn_number=" + prn_number + ", roll_number=" + roll_number + ", studentName=" + studentName
+				+ ", gender=" + gender + ", course_enrolled=" + course_enrolled + ", degree_course=" + degree_course
+				+ ", passing_year=" + passing_year + ", aggregate=" + aggregate + ", email=" + email + ", password="
+				+ password + ", contact=" + contact + "]";
+	}
+	
+	
+	
+	
+					         		
+
+}

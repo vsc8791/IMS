@@ -1,0 +1,47 @@
+package com.luv2code.springdemo.entity;
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+public class Faculty {
+
+	/*
+	 * create table faculty(
+id int auto_increment primary key,
+facultyName varchar(50),
+specialization varchar(50),
+experience varchar(50),
+email varchar(50),
+contact long,
+username varchar(50),
+`password` varchar(50) 
+);
+	 * 
+	 * 
+	 */
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int id;
+	
+	
+	private String facultyName;
+	
+	
+	private String specialization;
+	
+	
+	private String experience;
+	
+	
+	private String email;
+	
+	
+	private long contact;
+	
+	private String username;
+	
+	
+	private String password;
+	
+}

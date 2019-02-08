@@ -1,0 +1,33 @@
+package com.luv2code.springdemo.service;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Batch;
+
+public class BatchServiceImpl implements BatchService {
+
+	@Override
+	public List<Batch> getBatchs() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveBatch(Batch theBatch) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Batch getBatch(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteBatch(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

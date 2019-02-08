@@ -1,0 +1,99 @@
+package com.jboss.dao;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.query.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.jboss.pojos.DeathDetails;
+
+@Repository
+public class DeathDetailsDAOImpl implements DeathDetailsDAO {
+
+	
+	//need to inject the session factory
+	@Autowired
+	public SessionFactory sessionFactory;
+	
+	@Override
+	public List<Deathdetails> getDeathdetailss() {
+		//get the current hibernate session
+		Session currentSession=sessionFactory.getCurrentSession();
+		// create Query
+		Query<Deathdetails> theQuery=
+				currentSession.createQuery("from Deathdetails", Deathdetails.class);
+		//execute the query and get the result
+	List<Deathdetails> deathdetailss=theQuery.getResultList();		
+		// return the results		
+		return deathdetailss;
+	}
+
+	@Override
+	public void saveDeathdetails(Deathdetails theDeathdetails) {
+		//get current hibernate session
+		
+		Session currentSession = sessionFactory.getCurrentSession();
+		
+		//save the customer .. finally LOL
+		currentSession.saveOrUpdate(theDeathdetails);
+	}
+
+	@Override
+	public Deathdetails getDeathdetails(int theId) {
+
+		
+		//get the current hibernate session
+		
+		Session currentSession = sessionFactory.getCurrentSession();
+		
+		//now retrieve/read from database using the primary key
+		Deathdetails theDeathdetails = currentSession.get(Deathdetails.class, theId);
+		
+		 
+		return theDeathdetails;
+	}
+
+	@Override
+	public void deleteDeathdetails(int theId) {
+		//get the current session of hibernate
+		Session currentSession = sessionFactory.getCurrentSession();
+		//delete the object with primary key
+		
+		@SuppressWarnings("rawtypes")
+		Query theQuery=currentSession.createQuery("delete from Deathdetails where id=:deathdetailsId");
+		theQuery.setParameter("deathdetailsId", theId);
+		
+		theQuery.executeUpdate();
+				
+	}
+
+	@Override
+	public List<DeathDetails> getDeathDetailss() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveDeathDetails(DeathDetails theDeathDetails) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public DeathDetails getDeathDetails(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteDeathDetails(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+
+}

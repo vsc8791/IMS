@@ -1,0 +1,91 @@
+ <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>List Admins</title>
+	
+	<!-- reference our style sheet -->
+
+	<link type="text/css"
+		  rel="stylesheet"
+		  href="${pageContext.request.contextPath}/resources/css/style.css" />
+
+</head>
+
+<body>
+
+
+	<div id="wrapper">
+		<div id="header">
+			<h2>E-GRAM PANCHAYAT</h2>
+		</div>
+	</div>
+	
+	
+	
+	<div id="container">
+	
+		<div id="content">
+		
+			<!-- put new button: Add Admin -->
+		
+			<input type="button" value="Add New Admin"
+				   onclick="window.location.href='showFormForAdd'; return false;"
+				   class="add-button"
+			/>
+		<hr>
+<h1 align="center" style="color:red;"> ${message} </h1>
+<hr>
+		
+			<!--  add our html table here -->
+		
+			<table>
+				<tr>
+					<th>Admin Id</th>
+					<th>Password</th>
+				
+					<th>Action</th>
+				</tr>
+				
+				<!-- loop over and print our admins -->
+				<c:forEach var="tempAdmin" items="${admins}">
+				
+					<!-- construct an "update" link with admin id -->
+					<c:url var="updateLink" value="/admin/showFormForUpdate">
+						<c:param name="adminId" value="${tempAdmin.id}" />
+					</c:url>
+					
+					<!-- construct an "delete" link with admin id -->
+					<c:url var="deleteLink" value="/admin/delete">
+						<c:param name="adminId" value="${tempAdmin.id}" />
+					</c:url>					
+					
+					<tr>
+						<td> ${tempAdmin.adminid} </td>
+						<td> ${tempAdmin.password} </td>
+						
+						<td>
+							<!-- display the update link -->
+							<a href="${updateLink}">Update</a>| 
+							<a href="${deleteLink}"
+							onclick="if (!(confirm('Are You Sure You Want To Delete this Admin Details?'))) return false">Delete</a>
+						</td>
+						
+					 
+					</tr>
+				
+				</c:forEach>
+						
+			</table>
+				
+		</div>
+	
+	</div>
+	
+	<a href="http://localhost:8082/epanchayat/">Home Page</a>
+</body>
+
+</html>

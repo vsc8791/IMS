@@ -1,0 +1,33 @@
+package com.jboss.service;
+
+import java.util.List;
+
+import com.jboss.pojos.BirthDetails;
+
+public class BirthDetailsServiceImpl implements BirthDetailsService {
+
+	@Override
+	public List<BirthDetails> getBirthDetailss() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveAdmin(BirthDetails theBirthDetails) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public BirthDetails getBirthDetails(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteBirthDetails(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,33 @@
+package com.jboss.dao;
+
+import java.util.List;
+
+import com.jboss.pojos.BirthDetails;
+
+public class BirthDetailsDAOImpl implements BirthDetailsDAO {
+
+	@Override
+	public List<BirthDetails> getBirthDetailss() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveBirthDetails(BirthDetails theBirthDetails) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public BirthDetails getBirthDetails(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteBirthDetails(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

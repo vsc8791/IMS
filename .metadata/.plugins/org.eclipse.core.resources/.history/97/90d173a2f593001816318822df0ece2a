@@ -1,0 +1,33 @@
+package com.bookstore.service;
+
+import java.util.List;
+
+import com.bookstore.entity.Book;
+
+public class BookServiceImpl implements BookService {
+
+	@Override
+	public List<Book> getBooks() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveBook(Book theBook) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Book getBook(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteBook(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

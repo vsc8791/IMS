@@ -1,0 +1,12 @@
+package com.luv2code.springdemo.service;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Student;
+
+public interface StudentService {
+	List<Student> getStudents();
+	public void saveStudent(Student theStudent);
+	Student getStudent(int theId);
+	void deleteStudent(int theId);
+}

@@ -1,0 +1,63 @@
+package com.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.query.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.luv2code.springdemo.entity.Batch;
+import com.luv2code.springdemo.entity.Customer;
+
+public class BatchDAOImpl implements BatchDAO {
+
+	@Override
+	public List<Batch> getBatchs() {
+		// TODO Auto-generated method stub
+		
+
+		//need to inject the session factory
+		@Autowired
+		public SessionFactory sessionFactory;
+		
+			//get the current hibernate session
+			Session currentSession=sessionFactory.getCurrentSession();
+			// create Query
+			Query<Batch> theQuery=
+					currentSession.createQuery("from Batch order by lastName", Batch.class);
+			//execute the query and get the result
+		List<Batch> batchs=theQuery.getResultList();		
+			// return the results		
+			return batchs;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	@Override
+	public void saveBatch(Batch theBatch) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Batch getBatch(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteBatch(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

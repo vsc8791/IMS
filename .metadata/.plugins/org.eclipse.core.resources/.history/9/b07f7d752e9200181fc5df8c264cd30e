@@ -1,0 +1,73 @@
+ <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Save Result</title>
+<link type="text/css" rel="stylesheet"
+	href="${pageContext.request.contextPath}/resources/css/style.css">
+
+<title>Save Result</title>
+<link type="text/css" rel="stylesheet"
+	href="${pageContext.request.contextPath}/resources/css/add-customer-style.css">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="header">
+			<h2>IACSD Management System</h2>
+		</div>
+	</div>
+	<div>
+		<h3>Save Result Details</h3>
+		<form:form action="saveResult" modelAttribute="result"
+			method="POST">
+			<!-- need to associate this data with Student Id -->
+			<form:hidden path="id"/>
+			
+			<table align="center">
+				<tbody>
+					<tr>
+						<td><label>Result Date:</label></td>
+						<td><form:input path="resultName" type="date" /></td>
+					</tr>
+					<tr>
+						<td><label>Result Subject:</label></td>
+						<td><form:input path="result_subject"/></td>
+					</tr>
+					<tr>
+						<td><label>Result Status:</label></td>
+						<td><form:input path="result_status" /></td>
+					</tr>
+					<tr>
+						<td><label>Student Name:</label></td>
+						<td><form:input path="result_description"/></td>
+					</tr>
+					<tr>
+						<td><label>Passing Marks:</label></td>
+						<td><form:input path="passing_marks" type="number"/></td>
+					</tr>
+					<tr>
+						<td><label>Total Marks:</label></td>
+						<td><form:input path="total_marks" type="number"/></td>
+					</tr>
+					<tr>
+						<td><label>Result Type:</label></td>
+						<td><form:input path="result_type"/></td>
+					</tr>
+					
+					
+				</tbody>
+				 
+			</table>
+			<center><input  type="submit" value="Save" class="save" /></center>	
+		</form:form>
+		<!--  <center><input  type="submit" value="Save" class="save"/> </center> -->
+		<div style="clear;both;"></div>
+		<p><a href="${pageContext.request.contextPath}/result/list">Back To List</a></p>
+			<a href="http://localhost:8082/web-customer-tracker/">Home Page</a>
+	</div>
+           
+</body>
+
+
+</html>

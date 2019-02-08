@@ -1,0 +1,137 @@
+package com.luv2code.springdemo.controller;
+
+import java.util.List;
+
+import org.hibernate.exception.ConstraintViolationException;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+
+import com.luv2code.springdemo.entity.Student;
+import com.luv2code.springdemo.service.StudentService;
+
+@Controller
+@RequestMapping("/student")
+public class StudentController {
+	
+	//need to inject the customer dao
+		@Autowired
+		private StudentService studentService;
+		
+		@GetMapping("/list")
+		public String listStudent(Model theModel)
+		{
+			//get students from the dao using services
+			List<Student> theStudents=studentService.getStudents();		
+			//add the students from the dao using services
+			theModel.addAttribute("students",theStudents);
+			return "list-students";
+		}
+		
+		
+		@GetMapping("/list-students-success")
+		public String listStudentSuccess(Model theModel)
+		{
+			//get students from the dao using services
+			List<Student> theStudents=studentService.getStudents();		
+			//add the students from the dao using services
+			theModel.addAttribute("students",theStudents);
+			return "list-students-success";
+		}
+		// this function just to show the form 
+		@GetMapping("/showFormForAdd")
+		public String showFormForAdd(Model theModel )
+		{
+			//create model attribute to bind form data
+			Student theStudent=new Student(); 
+			theModel.addAttribute("student",theStudent);
+			return "student-form"; 
+			}
+		
+		// this function just to show the register form 
+				@GetMapping("/register")
+				public String register(Model theModel )
+				{
+					//create model attribute to bind form data
+					Student theStudent=new Student(); 
+					theModel.addAttribute("student",theStudent);
+					return "student-register-form"; 
+					}
+//this function is to store the registration details
+				//this function for save and update the details
+				@PostMapping("/saveStudentRegistration")
+				public String saveRegistration(@ModelAttribute("student") Student theStudent,final RedirectAttributes redirectAttrs,Model map)
+				{
+					//save the student using our service
+				try{	studentService.saveStudent(theStudent);
+					
+				}
+				
+				catch(ConstraintViolationException e)
+				{
+					redirectAttrs.addFlashAttribute("message", "ooppss !!! Already Exists ..");
+					return "redirect:/student/register";
+					
+				}
+				
+					redirectAttrs.addFlashAttribute("message", "SUCCESSFULLY REGISTERED");
+					return "redirect:/student/register";
+				}
+				
+				
+				
+		//this function for save and update the details
+		@PostMapping("/saveStudent")
+		public String saveStudent(@ModelAttribute("student") Student theStudent,final RedirectAttributes redirectAttrs )
+		{
+			//save the student using our service
+			
+			//save the student using our service
+			try{	studentService.saveStudent(theStudent);
+				
+			}
+			
+			catch(ConstraintViolationException e)
+			{
+				redirectAttrs.addFlashAttribute("message", "ooppss !!! Already Exists ..");
+				return "redirect:/student/list";
+				
+			}
+			
+				redirectAttrs.addFlashAttribute("message", "SUCCESSFULLY REGISTERED");
+			//	return "redirect:/student/register";
+		//	studentService.saveStudent(theStudent);
+			return "redirect:/student/list";
+		}
+
+		@GetMapping("/showFormForUpdate")
+		public String showFormForUpdate(@RequestParam("studentId") int theId,Model theModel)
+		{
+			//get the student from the database
+			Student theStudent = studentService.getStudent(theId);
+			//set student as a model attribute to pre-populate the form
+			theModel.addAttribute("student",theStudent);
+			//send over to our form
+			return "student-form";
+		}
+		
+		
+
+		@GetMapping("/delete")
+		public String deleteCustomer(@RequestParam("studentId") int theId)
+		{
+			//delete the student
+			studentService.deleteStudent(theId);
+			
+			return "redirect:/student/list";
+			}
+	
+
+}

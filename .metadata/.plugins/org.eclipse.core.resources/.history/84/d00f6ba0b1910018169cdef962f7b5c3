@@ -1,0 +1,35 @@
+package com.luv2code.springdemo.service;
+
+import java.util.List;
+
+import com.luv2code.springdemo.entity.Faculty;
+
+public class FacultyServiceImpl implements FacultyService {
+
+	@Override
+	public List<Faculty> getFacultys() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveFaculty(Faculty theFaculty) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Faculty getFaculty(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteFaculty(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

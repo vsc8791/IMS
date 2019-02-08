@@ -1,0 +1,43 @@
+package com.luv2code.springdemo.entity;
+
+import javax.persistence.*;
+
+public class Student {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	@Column(name="rollNumber")
+	private int rollNumber;
+	
+	@Column(name="prnNumber")
+	private long prnNumber;
+	
+	
+	@Column(name="studentName")
+	private String studentName;
+	
+	@Column(name="email")
+	private String email;
+	
+	@Column(name="contact")
+	private long contact;
+	
+	@Column(name="course_enrolled")
+	private String course_enrolled;
+	
+	@Column(name="aggregate")
+	private double aggregate;
+	
+	@Column(name="password")
+    private String password;
+	
+	@Column(name="degree_course")
+	private String degree_course;
+	
+	
+	
+	
+}

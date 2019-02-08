@@ -1,0 +1,9 @@
+package com.luv2code.springdemo.dao;
+
+public interface FacultyDAO {
+	public List<Faculty> getFacultys();
+	public void saveFaculty(Faculty theFaculty);
+	public Faculty getFaculty(int theId);
+	public void deleteFaculty(int theId);
+
+}

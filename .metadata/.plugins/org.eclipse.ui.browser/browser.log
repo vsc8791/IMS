@@ -1,0 +1,955 @@
+
+Jul 24, 2018 13:02:19.46 NEW SESSION
+Jul 24, 2018 13:02:19.46 [3688:10604:0724/130219.462:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 24, 2018 13:02:23.24 [3688:2176:0724/130223.240:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:02:24.96 [3688:10604:0724/130224.963:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:02:36.09 [3688:10604:0724/130236.098:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 24, 2018 13:02:47.32 [3688:10604:0724/130247.320:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:02:50.13 [3688:2176:0724/130250.139:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:02:57.37 [3688:10604:0724/130257.375:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:02:57.50 [3688:10604:0724/130257.507:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:02:57.54 [3688:10604:0724/130257.527:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:03:32.75 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 24, 2018 13:03:32.75 [3688:2176:0724/130332.753:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:03:43.96 [3688:10604:0724/130343.968:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:05:06.28 [3688:10604:0724/130506.283:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:05:15.83 [3688:2176:0724/130515.833:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:08:05.01 [3688:2176:0724/130805.010:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:08:20.34 [3688:10604:0724/130820.345:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:14:13.33 [3688:10604:0724/131413.339:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:15:50.00 [3688:2176:0724/131550.005:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:24:13.35 [3688:10604:0724/132413.350:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:25:36.09 [6012:500:0724/132536.091:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 24, 2018 13:25:37.79 [6012:11200:0724/132537.743:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:25:47.14 [6012:500:0724/132547.146:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 24, 2018 13:26:06.70 [6012:11200:0724/132606.700:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:26:12.18 [6012:500:0724/132612.181:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:26:12.22 [6012:500:0724/132612.221:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:26:12.53 [6012:500:0724/132612.537:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 13:27:01.25 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 24, 2018 13:27:01.26 [6012:11200:0724/132701.255:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:28:59.63 [6012:11200:0724/132859.630:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:32:01.33 [6012:500:0724/133201.339:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:32:23.21 [6012:500:0724/133223.214:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:32:41.38 [6012:11200:0724/133241.386:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:33:09.05 [6012:500:0724/133309.055:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:34:48.71 [6012:500:0724/133448.715:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:37:46.40 [6012:500:0724/133746.402:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 13:38:24.30 [6012:11200:0724/133824.307:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 13:45:26.19 [6012:500:0724/134526.198:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 14:14:06.53 [6012:500:0724/141406.530:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 14:14:07.57 [6012:11200:0724/141407.571:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:24:06.54 [6012:500:0724/142406.547:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 14:24:07.58 [6012:11200:0724/142407.582:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:50:50.94 [10568:7208:0724/145050.933:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 24, 2018 14:51:11.18 [10568:3640:0724/145111.185:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:51:24.35 [10568:7208:0724/145124.350:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 24, 2018 14:51:31.71 [10568:3640:0724/145131.717:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:52:08.71 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 24, 2018 14:52:08.75 [10568:7208:0724/145208.716:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 14:52:08.93 [10568:7208:0724/145208.935:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 14:52:09.40 [10568:7208:0724/145209.401:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 24, 2018 14:52:25.24 [10568:3640:0724/145225.241:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:53:47.05 [10568:3640:0724/145347.050:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 14:56:33.03 [10568:3640:0724/145633.034:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 15:03:28.86 [10568:3640:0724/150328.867:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 15:04:48.47 [10568:7208:0724/150448.476:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 15:05:15.86 [10568:7208:0724/150515.864:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 15:06:14.65 [10568:7208:0724/150614.654:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 15:06:38.38 [10568:3640:0724/150638.385:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 24, 2018 15:06:41.43 [10568:3640:0724/150641.438:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 24, 2018 15:06:50.89 [10568:3640:0724/150650.889:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 15:07:20.12 [10568:3640:0724/150720.128:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:08:07.76 [10568:3640:0724/150807.765:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:08:11.35 [10568:3640:0724/150811.355:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:08:17.06 [10568:3640:0724/150817.060:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:08:20.20 [10568:3640:0724/150820.196:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:08:48.23 [10568:3640:0724/150848.236:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:08:49.36 [10568:3640:0724/150849.360:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:03.39 [10568:3640:0724/150903.393:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:03.46 [10568:3640:0724/150903.463:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:07.35 [10568:7208:0724/150907.357:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 15:09:25.53 [10568:3640:0724/150925.537:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:26.10 [10568:3640:0724/150926.106:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:40.71 [10568:3640:0724/150940.691:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:45.18 [10568:3640:0724/150945.177:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:09:45.66 [10568:5956:0724/150945.668:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 15:09:45.87 [10568:3640:0724/150945.879:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:08.57 [10568:3640:0724/151008.571:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:10.92 [10568:3640:0724/151010.917:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:11.83 [10568:3640:0724/151011.834:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:11.85 [10568:3640:0724/151011.834:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:11.86 [10568:3640:0724/151011.838:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:10:59.51 [10568:3640:0724/151059.516:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:11:32.17 [10568:3640:0724/151132.158:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:11:33.79 [10568:3640:0724/151133.791:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:11:59.09 [10568:3640:0724/151159.088:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:13:26.23 [10568:3640:0724/151326.232:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:13:30.30 [10568:3640:0724/151330.306:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:17:16.73 [10568:3640:0724/151716.696:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:17:16.81 [10568:3640:0724/151716.696:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 15:17:36.58 [10568:5956:0724/151736.587:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 15:17:51.42 [10568:3640:0724/151751.426:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:18:06.60 [10568:3640:0724/151806.601:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:18:22.83 [10568:3640:0724/151822.836:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:18:27.08 [10568:3640:0724/151827.081:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:18:29.58 [10568:3640:0724/151829.581:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:18:32.15 [10568:3640:0724/151832.150:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:18:37.55 [10568:3640:0724/151837.554:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:18:48.92 [10568:3640:0724/151848.927:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:18:52.28 [10568:3640:0724/151852.289:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:19:01.82 [10568:3640:0724/151901.825:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 15:19:03.60 [10568:5956:0724/151903.600:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 15:19:07.38 [10568:3640:0724/151907.381:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:19:07.41 [10568:3640:0724/151907.410:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:19:07.56 [10568:3640:0724/151907.567:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:20:04.13 [10568:3640:0724/152004.139:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:20:09.99 [10568:3640:0724/152009.996:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:20:24.23 [10568:3640:0724/152024.235:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:20:44.56 [10568:3640:0724/152044.569:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:21:19.97 [10568:3640:0724/152119.973:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:23:17.41 [10568:5956:0724/152317.419:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 15:31:33.32 [10568:3640:0724/153133.325:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 15:31:39.30 [10568:5956:0724/153139.306:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 16:03:22.08 [10568:3640:0724/160322.035:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:03:25.97 [10568:3640:0724/160325.970:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:03:44.85 [10568:3640:0724/160344.835:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:04:11.94 [10568:3640:0724/160411.942:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:04:30.90 [10568:3640:0724/160430.908:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:04:45.72 [10568:3640:0724/160445.725:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:04:49.75 [10568:3640:0724/160449.759:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:05:26.31 [10568:3640:0724/160526.311:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:05:27.42 [10568:3640:0724/160527.424:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:05:28.28 [10568:3640:0724/160528.282:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:05:30.51 [10568:3640:0724/160530.517:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:05:37.43 [10568:3640:0724/160537.437:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:05:40.68 [10568:3640:0724/160540.687:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:05:49.09 [10568:3640:0724/160549.094:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:06:17.38 [10568:3640:0724/160617.389:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:06:30.62 [10568:3640:0724/160630.620:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:06:44.90 [10568:3640:0724/160644.908:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:07:02.29 [10568:3640:0724/160702.254:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:07:14.20 [10568:3640:0724/160714.203:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:07:24.25 [10568:3640:0724/160724.253:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:07:42.68 [10568:3640:0724/160742.679:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:09:05.32 [10568:3640:0724/160905.323:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:09:26.47 [10568:3640:0724/160926.474:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:09:51.63 [10568:3640:0724/160951.633:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:10:42.46 [10568:3640:0724/161042.468:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:10:42.49 [10568:3640:0724/161042.492:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:11:25.70 [10568:3640:0724/161125.702:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:11:53.34 [10568:3640:0724/161153.346:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:12:13.00 [10568:3640:0724/161213.005:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:12:15.08 [10568:3640:0724/161215.088:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:12:15.18 [10568:3640:0724/161215.183:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:12:35.52 [10568:3640:0724/161235.525:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:12:44.69 [10568:3640:0724/161244.694:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 24, 2018 16:12:53.87 [10568:3640:0724/161253.878:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:12:59.96 [10568:3640:0724/161259.965:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:12:59.98 [10568:3640:0724/161259.965:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 16:13:09.04 [10568:3640:0724/161309.044:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:13:19.62 [10568:3640:0724/161319.626:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:13:34.81 [10568:3640:0724/161334.818:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:13:42.61 [10568:3640:0724/161342.616:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:13:46.85 [10568:3640:0724/161346.853:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:13:51.35 [10568:3640:0724/161351.356:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:13:52.30 [10568:3640:0724/161352.309:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:14:01.27 [10568:3640:0724/161401.271:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:14:02.62 [10568:3640:0724/161402.622:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:14:02.64 [10568:3640:0724/161402.627:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 16:14:02.92 [10568:3640:0724/161402.921:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:14:03.95 [10568:3640:0724/161403.958:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:14:04.91 [10568:3640:0724/161404.918:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:14:14.02 [10568:3640:0724/161414.021:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:14:25.14 [10568:3640:0724/161425.145:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:15:10.83 [10568:3640:0724/161510.838:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:25:57.01 [10568:3640:0724/162557.012:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:27:48.53 [10568:3640:0724/162748.537:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:28:51.57 [10568:3640:0724/162851.575:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:29:12.16 [10568:3640:0724/162912.164:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:00.69 [10568:3640:0724/163000.696:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:07.09 [10568:3640:0724/163007.095:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:13.17 [10568:3640:0724/163013.175:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:23.99 [10568:3640:0724/163023.990:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:42.13 [10568:3640:0724/163042.138:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:45.45 [10568:3640:0724/163045.455:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:46.08 [10568:3640:0724/163046.083:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:30:59.88 [10568:3640:0724/163059.883:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:31:00.97 [10568:3640:0724/163100.979:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:31:02.24 [10568:3640:0724/163102.240:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:02.26 [10568:3640:0724/163102.250:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:06.66 [10568:3640:0724/163106.663:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:31:15.25 [10568:3640:0724/163115.256:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:19.34 [10568:3640:0724/163119.346:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:52.69 [10568:3640:0724/163152.697:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:53.26 [10568:3640:0724/163153.266:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:31:53.28 [10568:3640:0724/163153.266:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -101
+Jul 24, 2018 16:31:53.97 [10568:3640:0724/163153.976:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:31:57.16 [10568:3640:0724/163157.161:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:09.98 [10568:3640:0724/163209.989:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:28.14 [10568:3640:0724/163228.149:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:32:32.05 [10568:3640:0724/163232.051:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:32.07 [10568:3640:0724/163232.079:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:32:38.27 [10568:3640:0724/163238.275:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:32:39.04 [10568:3640:0724/163239.044:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:39.04 [10568:3640:0724/163239.044:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 16:32:46.10 [10568:3640:0724/163246.109:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:49.99 [10568:3640:0724/163249.991:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:32:59.25 [10568:3640:0724/163259.257:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:33:29.81 [10568:3640:0724/163329.810:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:33:33.64 [10568:3640:0724/163333.641:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:33:38.60 [10568:3640:0724/163338.603:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:33:42.78 [10568:3640:0724/163342.785:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:33:42.79 [10568:3640:0724/163342.785:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 16:33:43.26 [10568:3640:0724/163343.260:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:33:43.26 [10568:3640:0724/163343.260:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:02.37 [10568:3640:0724/163402.370:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:15.56 [10568:3640:0724/163415.562:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:34:19.52 [10568:3640:0724/163419.523:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:34:20.23 [10568:3640:0724/163420.233:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:34:32.24 [10568:3640:0724/163432.240:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:34:46.73 [10568:3640:0724/163446.730:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:53.55 [10568:3640:0724/163453.555:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:54.13 [10568:3640:0724/163454.135:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:57.02 [10568:3640:0724/163457.021:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:34:59.93 [10568:5956:0724/163459.934:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 16:35:04.33 [10568:3640:0724/163504.330:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:05.87 [10568:3640:0724/163505.874:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:17.20 [10568:3640:0724/163517.202:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:35:19.73 [10568:3640:0724/163519.733:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:35:37.37 [10568:3640:0724/163537.371:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:38.64 [10568:3640:0724/163538.640:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:38.80 [10568:3640:0724/163538.809:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:35:46.34 [10568:3640:0724/163546.341:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:48.78 [10568:3640:0724/163548.786:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:35:48.80 [10568:3640:0724/163548.786:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 24, 2018 16:35:48.98 [10568:3640:0724/163548.989:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:35:50.64 [10568:3640:0724/163550.646:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:35:55.15 [10568:3640:0724/163555.156:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:36:15.49 [10568:3640:0724/163615.493:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:36:23.11 [10568:3640:0724/163623.117:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:36:23.58 [10568:3640:0724/163623.581:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:37:03.60 [10568:3640:0724/163703.608:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:37:04.18 [10568:3640:0724/163704.182:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:37:07.22 [10568:3640:0724/163707.224:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:37:09.85 [10568:3640:0724/163709.854:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:37:13.81 [10568:3640:0724/163713.812:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:37:19.02 [10568:3640:0724/163719.022:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:37:46.02 [10568:3640:0724/163746.004:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:38:48.09 [10568:3640:0724/163848.093:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:38:48.64 [10568:3640:0724/163848.648:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:42:25.73 [10568:3640:0724/164225.731:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:48:49.20 [10568:3640:0724/164849.208:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 16:50:10.72 [10568:3640:0724/165010.729:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 16:59:51.26 [10568:3640:0724/165951.263:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 17:06:06.86 [10568:3640:0724/170606.866:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 17:06:17.86 [10568:3640:0724/170617.861:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 17:06:19.02 [10568:3640:0724/170619.022:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:06:27.65 [10568:3640:0724/170627.650:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 17:06:28.04 [10568:3640:0724/170628.040:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:06:32.57 [10568:3640:0724/170632.572:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:06:46.70 [10568:3640:0724/170646.702:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:06:46.82 [10568:3640:0724/170646.702:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:18:52.26 [10568:3640:0724/171852.266:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:20:58.02 [10568:3640:0724/172058.021:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 24, 2018 17:22:43.24 [10568:3640:0724/172243.246:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:22:59.24 [10568:3640:0724/172259.247:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 24, 2018 17:31:07.62 [10568:3640:0724/173107.621:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:31:35.67 [10568:3640:0724/173135.672:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:32:34.28 [10568:3640:0724/173234.281:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:34:00.18 [10568:3640:0724/173400.182:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:35:40.86 [10568:7208:0724/173540.862:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:36:09.92 [10568:7208:0724/173609.926:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:36:14.66 [10568:5956:0724/173614.667:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 17:37:07.07 [10568:7208:0724/173707.072:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:37:08.55 [10568:3640:0724/173708.557:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:38:59.65 [10568:7208:0724/173859.656:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:42:42.18 [10568:7208:0724/174242.186:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:44:28.38 [10568:3640:0724/174428.382:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:46:14.67 [10568:5956:0724/174614.674:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 17:48:58.74 [10568:7208:0724/174858.743:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 17:54:28.38 [10568:3640:0724/175428.387:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 17:56:14.68 [10568:5956:0724/175614.681:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 17:58:58.74 [10568:7208:0724/175858.746:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 18:04:28.39 [10568:3640:0724/180428.392:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 18:06:14.68 [10568:5956:0724/180614.685:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 18:08:58.75 [10568:7208:0724/180858.751:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 24, 2018 18:14:28.39 [10568:3640:0724/181428.397:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 24, 2018 18:16:14.69 [10568:5956:0724/181614.691:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 18:18:58.75 [10568:7208:0724/181858.759:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 24, 2018 22:22:05.46 NEW SESSION
+Jul 24, 2018 22:22:05.46 [4256:5820:0724/222205.468:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 24, 2018 22:22:29.35 [4256:5820:0724/222229.354:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 24, 2018 22:42:35.11 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 24, 2018 22:42:35.40 [4256:7216:0724/224235.118:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 24, 2018 22:42:35.42 [4256:7216:0724/224235.118:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 24, 2018 22:42:38.61 [4256:7216:0724/224238.618:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:42:38.65 [4256:8200:0724/224238.618:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:42:38.65 [4256:8200:0724/224238.634:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:42:38.66 [4256:5820:0724/224238.634:ERROR:account_info_fetcher.cc(82)] OnNetworkError 200
+Jul 24, 2018 22:42:44.74 [4256:7216:0724/224244.747:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:42:44.79 [4256:8200:0724/224244.747:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:42:47.53 [4256:7216:0724/224247.535:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:42:47.56 [4256:8200:0724/224247.535:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:43:06.38 [4256:7216:0724/224306.384:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:43:18.43 [4256:8200:0724/224318.432:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:43:18.44 [4256:8200:0724/224318.432:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:43:20.19 [4256:8200:0724/224320.191:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:43:22.36 [4256:7216:0724/224322.366:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 24, 2018 22:44:32.33 [4256:7216:0724/224432.335:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Jul 24, 2018 22:49:35.13 [4256:7216:0724/224935.134:ERROR:connection_handler_impl.cc(476)] Timed out waiting for GCM Protocol buffer.
+Jul 24, 2018 22:50:57.90 [4256:8200:0724/225057.900:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:51:00.50 [4256:7216:0724/225058.444:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:51:09.22 [4256:7216:0724/225109.223:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 24, 2018 22:51:09.27 [4256:8200:0724/225109.270:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:51:18.70 [4256:7216:0724/225118.705:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:51:18.72 [4256:8200:0724/225118.705:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:51:18.72 [4256:8200:0724/225118.705:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:51:22.26 [4256:7216:0724/225122.263:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 24, 2018 22:51:22.29 [4256:8200:0724/225122.295:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 24, 2018 22:52:15.27 [4256:7216:0724/225215.272:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 24, 2018 23:09:26.07 [4256:5820:0724/230926.003:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 24, 2018 23:52:25.66 [4256:7216:0724/235225.663:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 24, 2018 23:52:31.79 [4256:7216:0724/235231.797:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 01:53:58.52 [4256:7216:0725/015358.506:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 01:54:21.73 [4256:7216:0725/015421.737:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 02:06:30.62 [4256:7216:0725/020630.622:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Jul 25, 2018 02:37:30.26 [4256:7216:0725/023730.266:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 02:37:56.25 [4256:7216:0725/023756.254:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 02:38:19.70 [4256:7216:0725/023819.701:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 02:38:40.04 [4256:7216:0725/023840.042:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 02:40:00.78 [4256:7216:0725/024000.784:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 04:14:03.28 [4256:7216:0725/041403.280:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 04:40:35.69 [4256:7216:0725/044035.697:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 04:41:05.35 [4256:7216:0725/044105.355:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 04:41:23.73 [4256:7216:0725/044123.736:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 04:41:30.27 [4256:7216:0725/044130.279:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 08:14:40.79 [4256:7216:0725/081440.797:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 08:14:45.33 [4256:7216:0725/081445.334:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 08:15:36.00 [4256:8200:0725/081536.003:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+
+Jul 25, 2018 20:14:53.68 NEW SESSION
+Jul 25, 2018 20:14:53.68 [8888:11212:0725/201453.682:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 25, 2018 20:15:07.17 [8888:11212:0725/201507.179:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 25, 2018 20:20:23.68 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 25, 2018 20:20:24.39 [8888:11212:0725/202023.682:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 25, 2018 20:32:06.93 [8888:11212:0725/203206.937:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 25, 2018 23:05:56.65 [8888:4508:0725/230556.653:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 23:05:59.67 [8888:11212:0725/230559.675:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 25, 2018 23:06:03.82 [8888:4508:0725/230603.823:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 23:06:04.56 [8888:9220:0725/230603.838:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 25, 2018 23:06:26.27 [8888:4508:0725/230626.278:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 23:06:38.32 [8888:11212:0725/230638.325:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 25, 2018 23:06:38.32 [8888:9220:0725/230638.325:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 25, 2018 23:06:38.35 [8888:9220:0725/230638.356:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 25, 2018 23:06:48.84 [8888:9220:0725/230648.849:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 25, 2018 23:07:09.00 [8888:4508:0725/230709.005:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 25, 2018 23:07:09.08 [8888:11212:0725/230709.083:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-106).
+Jul 25, 2018 23:07:09.13 [8888:11212:0725/230709.130:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-106).
+Jul 25, 2018 23:07:09.16 [8888:11212:0725/230709.162:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-106).
+Jul 25, 2018 23:07:36.66 [8888:11212:0725/230736.661:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 25, 2018 23:08:33.16 [8888:4508:0725/230833.163:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 25, 2018 23:08:33.25 [8888:4508:0725/230833.163:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 25, 2018 23:22:39.74 [8888:4508:0725/232239.744:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 25, 2018 23:32:09.84 [8888:4508:0725/233209.845:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 25, 2018 23:32:09.95 [8888:4508:0725/233209.955:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 25, 2018 23:32:13.45 [8888:4508:0725/233213.455:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 23:32:19.55 [8888:4508:0725/233219.552:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 25, 2018 23:32:23.27 [8888:4508:0725/233223.278:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 26, 2018 02:33:47.56 [8888:11212:0726/023347.562:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 26, 2018 02:33:47.62 [8888:9220:0726/023347.593:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 02:33:51.14 [8888:4508:0726/023351.109:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 26, 2018 02:33:58.97 [8888:9220:0726/023358.973:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 02:34:00.43 [8888:4508:0726/023400.437:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 26, 2018 02:34:04.38 [8888:9220:0726/023404.388:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 14:31:42.67 [8888:11212:0726/143142.673:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 26, 2018 14:31:45.62 [8888:4508:0726/143144.632:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 14:31:45.65 [8888:9220:0726/143144.632:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 14:32:24.95 [8888:11212:0726/143224.951:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 26, 2018 14:34:06.35 [8888:11212:0726/143406.350:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 26, 2018 14:35:02.50 [8888:4508:0726/143502.503:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 15:34:13.99 [8888:11212:0726/153413.997:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 26, 2018 15:41:13.17 [12556:7056:0726/154113.171:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 26, 2018 15:41:26.54 [12556:7056:0726/154126.542:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 26, 2018 16:36:23.21 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 26, 2018 16:36:23.36 [12556:7056:0726/163623.217:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 26, 2018 16:43:05.36 [12556:13720:0726/164305.363:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:44:00.42 [12556:13720:0726/164400.420:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -118
+Jul 26, 2018 16:44:33.38 [12556:6168:0726/164433.389:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 16:44:38.38 [12556:13720:0726/164438.385:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:44:46.96 [12556:13720:0726/164446.960:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:44:47.04 [12556:6168:0726/164446.960:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 16:44:50.32 [12556:13720:0726/164450.325:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 26, 2018 16:44:50.32 [12556:6168:0726/164450.325:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 16:45:08.38 [12556:13720:0726/164508.380:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:45:08.39 [12556:6168:0726/164508.380:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 26, 2018 16:48:05.88 [12556:13720:0726/164805.881:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 26, 2018 16:48:12.97 [12556:13720:0726/164812.974:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 26, 2018 16:48:41.88 [12556:13720:0726/164841.881:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:48:53.35 [12556:13720:0726/164853.357:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:48:56.68 [12556:13720:0726/164856.683:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 26, 2018 16:49:27.87 [12556:13720:0726/164927.876:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 26, 2018 16:50:38.21 [12556:13720:0726/165038.214:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 26, 2018 17:03:58.53 [13100:10192:0726/170358.537:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 26, 2018 17:03:59.47 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.56 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.63 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.67 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.69 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.72 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.74 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.77 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.77 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.78 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.80 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.81 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.83 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.86 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.86 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.88 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.89 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.92 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.94 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.94 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.95 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.97 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:03:59.99 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.00 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.00 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.05 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.06 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.08 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.09 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.11 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.13 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.13 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.16 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.19 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.20 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.22 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.24 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.25 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.27 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.28 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.30 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.31 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.33 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.33 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.34 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.36 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.36 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.38 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.38 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.39 [13100:10192:0726/170359.474:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.39 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.41 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.41 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.42 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.44 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.45 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.49 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.50 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.52 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.53 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.55 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.56 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.56 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.58 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.59 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.61 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.61 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.63 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.63 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.64 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.64 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.66 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.66 [13100:10192:0726/170359.490:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.67 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.69 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.82 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:00.93 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.00 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.04 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.08 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.10 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.13 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.15 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.18 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.22 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.30 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.33 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.45 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.54 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.60 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.65 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.67 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.70 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.72 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.74 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.76 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.77 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.79 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.83 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.90 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.94 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:01.98 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.07 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.09 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.10 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.12 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.13 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.14 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.16 [13100:10192:0726/170400.256:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.18 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.20 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.22 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.24 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.26 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.28 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.31 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.33 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.34 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.35 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.37 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:02.38 [13100:10192:0726/170400.678:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 26, 2018 17:04:09.85 [13100:10192:0726/170409.859:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 26, 2018 17:09:54.86 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 26, 2018 17:09:55.66 [13100:10192:0726/170954.865:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 26, 2018 17:21:52.92 [13100:10192:0726/172152.928:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 26, 2018 18:19:37.15 [13100:12284:0726/181936.380:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 26, 2018 18:19:47.75 [13100:12284:0726/181947.759:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 26, 2018 18:20:14.69 [13100:12284:0726/182014.693:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 26, 2018 18:35:35.49 [13100:10192:0726/183535.491:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 26, 2018 18:42:00.21 [13100:12284:0726/184200.211:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+
+Jul 27, 2018 13:52:24.52 NEW SESSION
+Jul 27, 2018 13:52:24.52 [14948:5176:0727/135224.432:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 27, 2018 13:52:34.16 [14948:13004:0727/135234.165:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 13:52:45.79 [14948:5176:0727/135245.795:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 27, 2018 13:53:03.84 [14948:13004:0727/135303.843:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 13:53:19.82 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+
+Jul 27, 2018 21:03:38.07 NEW SESSION
+Jul 27, 2018 21:03:38.07 [11028:4968:0727/210338.073:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 27, 2018 21:03:38.99 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.21 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.22 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.24 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.26 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.27 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.27 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.29 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.29 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.30 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.30 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.32 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.63 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.65 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.66 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.68 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.71 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.71 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.72 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.74 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.74 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.76 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.77 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.77 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.79 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.79 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.80 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.82 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.82 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.83 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.85 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.85 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.87 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.88 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.90 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.91 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.91 [11028:4968:0727/210338.995:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.93 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.93 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.94 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.94 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.96 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.96 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.97 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.97 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.97 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.99 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:39.99 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.01 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.01 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.01 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.02 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.02 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.04 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.04 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.04 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.05 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.05 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.07 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.07 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.07 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.08 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.08 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.10 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.10 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.12 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.12 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.13 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.13 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.15 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.15 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.15 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.16 [11028:4968:0727/210339.214:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.16 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.19 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.22 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.24 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.26 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.27 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.29 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.30 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.32 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.32 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.32 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.33 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.33 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.35 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.35 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.35 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.37 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.37 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.38 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.40 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.41 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.44 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.46 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.47 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.49 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.52 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.54 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.55 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.57 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.58 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.60 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.60 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.62 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.62 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.66 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.67 [11028:4968:0727/210339.932:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.70 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.71 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.72 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.72 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.73 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.73 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.74 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.75 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.75 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.76 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.77 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.77 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:40.78 [11028:4968:0727/210340.167:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 27, 2018 21:03:49.81 [11028:4968:0727/210349.818:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 27, 2018 21:11:21.63 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 27, 2018 21:11:21.84 [11028:3672:0727/211121.636:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 21:11:42.33 [11028:3672:0727/211142.332:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 21:12:08.13 [11028:3672:0727/211208.132:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 21:12:55.83 [11028:3672:0727/211255.833:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 21:14:11.19 [11028:3672:0727/211411.193:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 21:16:41.05 [11028:3672:0727/211641.056:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 21:33:50.84 [11028:3672:0727/213350.845:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 27, 2018 21:34:01.56 [11028:3672:0727/213401.567:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 27, 2018 21:34:54.12 [11028:3672:0727/213454.129:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 21:38:18.84 [11028:3672:0727/213818.827:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 21:38:18.95 [11028:3672:0727/213818.952:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 21:38:22.47 [11028:3672:0727/213822.474:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 21:47:09.51 [11028:3672:0727/214709.513:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 21:47:09.68 [11028:3672:0727/214709.689:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 21:47:13.22 [11028:3672:0727/214713.226:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 21:51:32.47 [11028:3672:0727/215132.473:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 21:51:32.63 [11028:3672:0727/215132.630:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 21:51:36.63 [11028:3672:0727/215136.633:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 22:02:00.86 [11028:3672:0727/220200.866:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 22:02:00.96 [11028:3672:0727/220200.960:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:02:04.62 [11028:3672:0727/220204.622:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:15:28.21 [11028:3672:0727/221528.219:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 27, 2018 22:17:15.63 [11028:3672:0727/221715.630:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 22:20:36.58 [11028:3672:0727/222036.584:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:20:40.76 [11028:3672:0727/222040.760:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:20:46.54 [11028:3672:0727/222046.541:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:20:50.11 [11028:3672:0727/222050.110:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:22:31.55 [11028:3672:0727/222231.551:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 22:22:37.61 [11028:3672:0727/222237.615:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 22:24:42.76 [11028:3672:0727/222442.763:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 27, 2018 22:24:49.30 [11028:3672:0727/222449.306:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 23:18:52.04 [15836:8004:0727/231852.047:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 27, 2018 23:19:08.38 [15836:8004:0727/231908.385:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 27, 2018 23:55:40.32 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 27, 2018 23:55:40.37 [15836:6420:0727/235540.323:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 23:55:45.12 [15836:6420:0727/235545.120:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 23:55:57.13 [15836:6420:0727/235557.139:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 23:56:48.68 [15836:6420:0727/235648.684:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 23:57:09.60 [15836:6420:0727/235709.609:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 27, 2018 23:57:17.63 [15836:6420:0727/235717.629:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 23:57:20.15 [15836:6420:0727/235720.157:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 27, 2018 23:57:29.64 [15836:6420:0727/235729.642:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 27, 2018 23:57:41.67 [15836:17816:0727/235741.678:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 27, 2018 23:58:26.68 [15836:17816:0727/235826.689:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:00:42.79 [15836:17816:0728/000042.794:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:01:44.44 [15836:6420:0728/000144.441:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 28, 2018 24:02:53.64 [15836:6420:0728/000253.641:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 28, 2018 24:02:53.75 [15836:17816:0728/000253.641:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:02:58.61 [15836:6420:0728/000258.619:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 28, 2018 24:04:19.53 [15836:17816:0728/000419.532:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:04:34.69 [15836:6420:0728/000434.698:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 28, 2018 24:04:46.73 [15836:17816:0728/000446.730:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:04:55.01 [15836:6420:0728/000455.013:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 24:05:01.72 [15836:6420:0728/000501.722:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 28, 2018 24:05:04.12 [15836:6420:0728/000504.123:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 28, 2018 24:08:28.65 [15836:17816:0728/000828.650:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 28, 2018 24:34:04.77 [15836:6420:0728/003404.683:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 28, 2018 24:34:27.82 [15836:6420:0728/003427.822:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 28, 2018 24:34:37.09 [15836:6420:0728/003437.092:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+
+Jul 30, 2018 10:32:33.01 NEW SESSION
+Jul 30, 2018 10:32:33.01 [17736:20468:0730/103232.830:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 30, 2018 10:32:44.85 [17736:20468:0730/103244.857:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+
+Jul 30, 2018 12:24:47.48 NEW SESSION
+Jul 30, 2018 12:24:47.48 [4532:7864:0730/122447.438:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 30, 2018 12:24:48.18 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.20 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.21 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.23 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.25 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.26 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.32 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.34 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.36 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.68 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.71 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.73 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.75 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.78 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.79 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.87 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.89 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.90 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.90 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.93 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.93 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.93 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.96 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.98 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:48.98 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.00 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.01 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.06 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.07 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.07 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.09 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.11 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.12 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.17 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.18 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.18 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.20 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.21 [4532:7864:0730/122448.188:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.23 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.25 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.25 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.25 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.26 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.28 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.28 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.29 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.31 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.31 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.32 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.34 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.36 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.36 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.37 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.39 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.42 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.46 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.46 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.48 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.50 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.50 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.51 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.53 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.53 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.54 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.54 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.56 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.57 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.57 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.59 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.61 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.62 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.62 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.64 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.64 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.65 [4532:7864:0730/122448.204:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.67 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.70 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.75 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.82 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.84 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.87 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.92 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:49.93 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.00 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.01 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.03 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.04 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.06 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.07 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.09 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.09 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.12 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.12 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.14 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.15 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.17 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.17 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.18 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.20 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.23 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.25 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.26 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.28 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.43 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.51 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.55 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.60 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.65 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.71 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.75 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.79 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.80 [4532:7864:0730/122449.235:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:50.81 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.05 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.06 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.07 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.08 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.08 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.09 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.10 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.11 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.12 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.13 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.15 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.20 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.22 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.23 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.30 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.33 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.34 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:51.36 [4532:7864:0730/122449.672:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+Jul 30, 2018 12:24:59.43 [4532:6024:0730/122459.435:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 12:24:59.81 [4532:7864:0730/122459.813:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 30, 2018 12:25:22.83 [4532:16032:0730/122522.830:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 30, 2018 12:25:26.52 [4532:6024:0730/122526.523:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 12:25:54.63 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 30, 2018 12:25:54.70 [4532:6024:0730/122554.631:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 12:25:59.05 [4532:16032:0730/122559.059:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 30, 2018 12:26:02.11 [4532:6024:0730/122602.110:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 12:26:20.94 [4532:16032:0730/122620.949:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 30, 2018 12:29:52.30 [4532:6024:0730/122952.302:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 12:30:14.70 [4532:6024:0730/123014.706:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:30:14.73 [4532:6024:0730/123014.722:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:30:15.78 [4532:6024:0730/123015.786:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:30:15.83 [4532:6024:0730/123015.833:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:30:15.83 [4532:6024:0730/123015.833:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 30, 2018 12:30:29.54 [4532:16032:0730/123029.546:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Jul 30, 2018 12:33:00.66 [4532:6024:0730/123300.666:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:33:00.68 [4532:6024:0730/123300.666:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 30, 2018 12:43:45.51 [4532:6024:0730/124345.516:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 12:43:51.23 [4532:6024:0730/124351.239:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 12:51:23.81 [4532:6024:0730/125123.816:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:51:23.84 [4532:6024:0730/125123.816:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -100
+Jul 30, 2018 12:51:24.52 [4532:6024:0730/125124.525:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:51:26.05 [4532:6024:0730/125126.055:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:51:34.09 [4532:6024:0730/125134.091:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:51:34.10 [4532:6024:0730/125134.091:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:51:36.66 [4532:6024:0730/125136.660:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 12:55:57.49 [4532:6024:0730/125557.492:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Jul 30, 2018 12:57:55.57 [4532:6024:0730/125755.571:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 12:58:25.28 [4532:6024:0730/125825.288:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 12:59:07.55 [4532:6024:0730/125907.555:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 13:11:54.89 [4532:6024:0730/131154.899:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 30, 2018 13:11:55.08 [4532:6024:0730/131155.087:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 13:12:09.41 [4532:6024:0730/131209.413:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 13:33:07.14 [4532:6024:0730/133306.912:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 13:33:17.07 [4532:6024:0730/133317.071:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 13:37:16.52 [4532:7864:0730/133716.522:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 30, 2018 13:39:58.90 [4532:6024:0730/133958.902:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 30, 2018 13:46:29.31 [4532:6024:0730/134629.315:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 13:47:31.33 [4532:6024:0730/134731.331:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 14:00:40.29 [4532:6024:0730/140040.295:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 14:01:11.33 [4532:6024:0730/140111.338:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 14:09:30.39 [4532:6024:0730/140930.391:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Jul 30, 2018 14:09:30.68 [4532:6024:0730/140930.688:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 14:09:30.70 [4532:7864:0730/140930.688:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 14:10:10.51 [4532:6024:0730/141010.513:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -7
+Jul 30, 2018 14:11:15.37 [4532:6024:0730/141115.372:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -118
+Jul 30, 2018 14:24:46.60 [4532:6024:0730/142446.441:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jul 30, 2018 14:24:50.91 [4532:6024:0730/142450.918:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Jul 30, 2018 18:47:56.64 NEW SESSION
+Jul 30, 2018 18:47:56.64 [21500:11188:0730/184756.602:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 30, 2018 18:48:18.92 [21500:16564:0730/184818.913:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:48:33.52 [21500:11188:0730/184833.527:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 30, 2018 18:48:47.38 [21500:16564:0730/184847.382:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:49:07.84 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 30, 2018 18:49:07.90 [21500:11188:0730/184907.846:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 18:49:09.68 [21500:11188:0730/184909.686:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 18:49:09.93 [21500:11188:0730/184909.936:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 18:49:28.89 [21500:11188:0730/184928.890:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 18:50:58.97 [22288:17020:0730/185058.977:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 30, 2018 18:51:02.49 [22288:7292:0730/185102.498:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:51:11.62 [22288:17020:0730/185111.626:ERROR:data_type_manager_impl.cc(36)] Passwords cryptographer error was encountered: 
+Jul 30, 2018 18:51:32.28 [22288:7292:0730/185132.279:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:51:37.70 [22288:17020:0730/185137.708:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 18:51:38.36 [22288:17020:0730/185138.366:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Jul 30, 2018 18:52:28.45 Unable to read VR Path Registry from C:\Users\MOjoJoJO\AppData\Local\openvr\openvrpaths.vrpath
+Jul 30, 2018 18:52:28.53 [22288:7292:0730/185228.458:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:54:19.07 [22288:7292:0730/185419.072:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 18:57:02.58 [22288:7292:0730/185702.581:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:03:03.21 [22288:7292:0730/190303.218:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:04:50.24 [22288:17020:0730/190450.242:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:05:15.46 [22288:17020:0730/190515.468:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:06:13.06 [22288:17020:0730/190613.067:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:08:10.75 [22288:17020:0730/190810.757:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:11:49.27 [22288:17020:0730/191149.273:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:13:03.22 [22288:7292:0730/191303.225:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:18:31.98 [22288:17020:0730/191831.986:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:23:03.24 [22288:7292:0730/192303.242:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:28:31.99 [22288:17020:0730/192831.990:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:33:03.24 [22288:7292:0730/193303.244:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:38:32.00 [22288:17020:0730/193832.007:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:43:03.25 [22288:7292:0730/194303.255:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:48:32.02 [22288:17020:0730/194832.023:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 19:53:03.27 [22288:7292:0730/195303.275:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 19:58:32.03 [22288:17020:0730/195832.039:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 22:58:38.56 [22288:17020:0730/225838.560:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 22:58:40.79 [22288:7292:0730/225838.574:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 23:27:55.56 [22288:17020:0730/232755.561:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 30, 2018 23:28:01.09 [22288:7292:0730/232801.090:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 23:28:08.48 [22288:7292:0730/232808.481:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 23:28:15.62 [22288:7292:0730/232815.621:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 23:29:13.06 [22288:7292:0730/232913.062:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Jul 30, 2018 23:30:17.91 [22288:7292:0730/233017.912:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 23:30:45.45 [22288:7292:0730/233045.452:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -105
+Jul 30, 2018 23:30:49.48 [22288:7292:0730/233049.489:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -21
+Jul 30, 2018 23:32:31.37 [22288:7292:0730/233231.377:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 23:33:12.93 [22288:17020:0730/233312.936:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+Jul 30, 2018 23:43:36.50 [22288:7292:0730/234336.501:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jul 30, 2018 23:52:55.82 [22288:17020:0730/235255.827:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)

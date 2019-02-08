@@ -1,0 +1,33 @@
+package com.jboss.dao;
+
+import java.util.List;
+
+import com.jboss.pojos.DeathDetails;
+
+public class DeathDetailsDAOImpl implements DeathdetailsDAO {
+
+	@Override
+	public List<DeathDetails> getDeathDetailss() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveDeathDetails(DeathDetails theDeathDetails) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public DeathDetails getDeathDetails(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteDeathDetails(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,31 @@
+package com.jboss.pojos;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name="birthdetails")
+public class BirthDetails {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	@Column(name="certificate_type")
+	private String certificate_type;
+	
+	@Column(name="birthid")
+	private String birthid;
+	
+	@Column(name="firstname")
+	private String firstname;
+	
+	@Column(name="middlename")
+	private String middlename;
+	
+	@Column(name="lastname")
+	private String lastname;
+	
+	
+	
+}

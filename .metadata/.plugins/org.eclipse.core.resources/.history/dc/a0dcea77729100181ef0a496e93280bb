@@ -1,0 +1,36 @@
+package com.luv2code.springdemo.entity;
+
+import javax.persistence.*;
+
+public class Batch {
+
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	@Column(name="batchName")
+	private String batchName;
+	
+	@Column(name="batchYear")
+	private int batchYear;
+	
+	@Column(name="no_of_students")
+	private int no_of_students;
+	
+	@Column(name="status")
+	private String  status;
+	
+	@Column(name="placement_percentage")
+	private float placement_percentage;
+	
+	
+	
+	public Batch() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+}

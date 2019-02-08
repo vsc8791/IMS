@@ -1,0 +1,34 @@
+package com.luv2code.springdemo.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.luv2code.springdemo.entity.Customer;
+import com.luv2code.springdemo.service.StudentService;
+
+@Controller
+@RequestMapping("/student")
+public class StudentController {
+	
+	//need to inject the customer dao
+		@Autowired
+		private StudentService studentService;
+		
+		@GetMapping("/list")
+		public String listStudent(Model theModel)
+		{
+			//get students from the dao using services
+			List<Student> theStudents=studentService.getStudents();		
+			//add the students from the dao using services
+			theModel.addAttribute("students",theStudents);
+			return "list-students";
+		}
+	
+	
+
+}

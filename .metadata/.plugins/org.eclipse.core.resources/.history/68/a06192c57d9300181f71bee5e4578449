@@ -1,0 +1,62 @@
+package com.jboss.pojos;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="user")
+public class User {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	private int id;
+	
+	
+	@Column(name="firstname")
+	private String firstname;
+	
+	@Column(name="middlename")
+	private String middlename;
+	
+	@Column(name="lastname")
+	private String lastname;
+	
+	@Column(name="dob")
+	private String 	dob;
+	
+	@Column(name="email")
+	private String email;
+	
+	
+	@Column(name="address")
+	private String address;
+	
+	
+	@Column(name="state")
+	private String state;
+	
+	@Column(name="district")
+	private String district;
+	
+	
+	@Column(name="taluka")
+	private String taluka;
+	
+	@Column(name="pincode")
+	private String pincode;
+	
+	@Column(name="username")
+	private String username;
+	
+	@Column(name="password")
+	private String password;
+	
+	
+	
+	
+}

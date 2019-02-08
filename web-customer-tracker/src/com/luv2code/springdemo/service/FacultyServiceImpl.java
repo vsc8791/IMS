@@ -1,0 +1,46 @@
+package com.luv2code.springdemo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.luv2code.springdemo.dao.FacultyDAO;
+import com.luv2code.springdemo.entity.Faculty;
+@Service
+public class FacultyServiceImpl implements FacultyService {
+
+	//need to inject customer dao
+	@Autowired
+	public FacultyDAO facultyDAO;
+	@Override
+	@Transactional
+	public List<Faculty> getFacultys() {
+		
+		return facultyDAO.getFacultys();
+	}
+	@Override
+	@Transactional
+	public void saveFaculty(Faculty theFaculty) {
+		// TODO Auto-generated method stub
+		facultyDAO.saveFaculty(theFaculty);		
+	}
+	@Override
+	@Transactional
+	public Faculty getFaculty(int theId) {
+		// TODO Auto-generated method stub
+		
+		return facultyDAO.getFaculty(theId);
+	}
+	
+	@Override
+	@Transactional
+	public void deleteFaculty(int theId) {
+		
+	facultyDAO.deleteFaculty(theId);	
+	}
+	
+
+}
+

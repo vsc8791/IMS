@@ -1,0 +1,10 @@
+package com.luv2code.springdemo.service;
+
+public interface BatchService {
+
+	public List<Batch> getBatchs();
+	public void saveBatch(Batch theBatch);
+	public Batch getBatch(int theId);
+	public void deleteBatch(int theId);
+	
+}

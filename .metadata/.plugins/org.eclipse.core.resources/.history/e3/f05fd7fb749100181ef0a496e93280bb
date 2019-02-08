@@ -1,0 +1,10 @@
+package com.luv2code.springdemo.service;
+
+public interface ScheduleService {
+
+	public List<Schedule> getSchedules();
+	public void saveSchedule(Schedule theSchedule);
+	public Schedule getSchedule(int theId);
+	public void deleteSchedule(int theId);
+	
+}

@@ -1,0 +1,33 @@
+package com.jboss.service;
+
+import java.util.List;
+
+import com.jboss.pojos.Admin;
+
+public class AdminServiceImpl implements AdminService {
+
+	@Override
+	public List<Admin> getAdmins() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveAdmin(Admin theAdmin) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Admin getAdmin(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteAdmin(int theId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

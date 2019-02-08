@@ -1,0 +1,4 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMVCCRUDSimple/WebRoot/WEB-INF/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/epanchayat/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/web-customer-tracker/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

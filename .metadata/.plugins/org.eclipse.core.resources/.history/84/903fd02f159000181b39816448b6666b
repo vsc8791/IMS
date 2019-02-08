@@ -1,0 +1,38 @@
+package com.luv2code.springdemo.dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.luv2code.springdemo.entity.Student;
+
+@Repository
+public class StudentDAOImpl implements StudentDAO {
+
+	@Override
+	public List<Student> getStudents() {
+		// TODO Auto-generated method stub
+		
+		
+		return null;
+	}
+
+	@Override
+	public void saveStudent(Student theStudent) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Student getStudent(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteStudent(int theId) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
